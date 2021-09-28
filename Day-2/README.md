@@ -1,16 +1,16 @@
 # Linux File System, Directory structure and Namespaces
 
-1. What is squashfs file system?
-2. What are /dev/loop and /dev/tty ?
-3. What are Linux Signals?
-4. Purpose of hidden files.
-5. How ext4 fs is faster ?
-6. What is swap & swap memory?
-7. how to mount a file system?
-8. ZFS use case.
-9. Revisit Linux Directory structure and each directory of it.
-10. How to check which process running on which port?
-11. what is unix time sharing?
-12. what are control groups?
-13. difference between sbin & usr/sbin ?
-14. Examples of awk, grep and sed
+1. [What is squashfs file system?](squashfs.md)
+2. [What are /dev/loop and /dev/tty ?](loopttyl.md)
+3. [What are Linux Signals?](linuxsinals.md)
+4. [Purpose of hidden files.](hidden.md)
+5. [How ext4 fs is faster ?](ext4.md)
+6. [What is swap & swap memory?](swap.md)
+7. [how to mount a file system?](mount.md)
+8. [ZFS use case.](zfs.md)
+9. [Revisit Linux Directory structure and each directory of it.](dirstructure)
+10. [How to check which process running on which port?](proc.md)
+11. [what is unix time sharing?](time.md)
+12. [what are control groups?](cgroups.md)
+13. [difference between sbin & usr/sbin ?](bins.md)
+14. [Examples of awk, grep and sed](sed-grep-awk.md)
