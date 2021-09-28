@@ -2,7 +2,7 @@
 
 1. [What is squashfs file system?](squashfs.md)
 2. [What are /dev/loop and /dev/tty ?](loopttyl.md)
-3. [What are Linux Signals?](linuxsinals.md)
+3. [What are Linux Signals?](linuxsignals.md)
 4. [Purpose of hidden files.](hidden.md)
 5. [How ext4 fs is faster ?](ext4.md)
 6. [What is swap & swap memory?](swap.md)
