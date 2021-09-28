@@ -8,7 +8,7 @@
 6. [What is swap space or swap memory?](swap.md)
 7. [how to mount a file system?](mount.md)
 8. [ZFS use case.](zfs.md)
-9. [Revisit Linux Directory structure and each directory of it.](dirstructure)
+9. [Revisit Linux Directory structure and each directory of it.](dirstructure.md)
 10. [How to check which process running on which port?](proc.md)
 11. [what is unix time sharing?](time.md)
 12. [what are control groups?](cgroups.md)
