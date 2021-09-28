@@ -13,3 +13,13 @@ This process is swapping process.This way, your linux system can release some RA
 | Part of your hard drive | A file alternate to partition |
 | Once configured, it is not easy to change | You can modify the size of the swap file anytime, easily |
 | Created at the time of installing your Linux distribution | Can be created after the installation. |
+
+### How to check swap space
+**Check swap size**
+```
+free -h
+```
+**Check swap partition size, swap type with mount point**
+```
+swapon
+```
