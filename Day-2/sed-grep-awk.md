@@ -1,5 +1,9 @@
-## awk, sed and grep commands
+# Awk, Sed and Grep commands
+1. [awk](sed-grep-awk.md#awk)
+2. sed
+3. grep
 
+## awk
 **Let's create a file first**
 ```
 cat > test.txt
