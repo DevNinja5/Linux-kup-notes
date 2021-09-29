@@ -16,13 +16,30 @@ sunil peon sales 13000
 satvik director purchase 80000 
 ```
 
-To print lines having `account` word 
+* To print lines having `account` word 
 ```
 awk '/account/{print $0}' test.txt
 ```
 output will look like
-> ajay manager account 45000\
-> sunil clerk account 25000\
-> amit manager account 47000\
+```text
+ajay manager account 45000
+sunil clerk account 25000
+amit manager account 47000
+```
+---
+* To print 2nd field of file 
+```
+awk '{print $2}' test.txt
+```
+Output Will look like:
+```text
+manager
+clerk
+manager
+manager
+peon
+clerk
+peon
+director
 
-
+```
