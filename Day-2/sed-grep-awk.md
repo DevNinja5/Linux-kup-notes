@@ -47,3 +47,39 @@ peon
 director
 
 ```
+---
+
+* To print first field of each record whose second field contains “manager”
+```
+awk '$2 ~ /manager/ { print $1 }' test.txt
+```
+Output will look like :
+```
+ajay
+varun
+amit
+```
+---
+
+* To print number of lines in file
+```
+awk 'END { print "File", FILENAME, "contains", NR, "lines." }' test.txt
+```
+Output will look like:
+```
+File test.txt contains 8 lines.
+
+```
+---
+To Print rows from 2 to 5 
+```
+awk 'NR==2, NR==5 {print $0}' test.txt
+```
+Output will look like:
+```
+sunil clerk account 25000
+varun manager sales 50000
+amit manager account 47000
+tarun peon sales 15000
+```
+---
