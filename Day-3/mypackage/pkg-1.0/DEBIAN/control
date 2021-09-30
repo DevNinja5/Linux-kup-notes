@@ -1,0 +1,10 @@
+Package: mypkg
+Version: 1.0
+Section: custom
+Priority: optional
+Depends: g++
+Architecture: all
+Essential: no
+Installed-Size: 1024
+Maintainer: Rahul
+Description: Print a message
