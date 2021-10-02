@@ -12,7 +12,7 @@
 9. [What are public & private keys?](answers/ans9.md)
 10. [How SSH works?](answers/ans10.md)
 11. [Difference between HTTP & HTTPS.](answers/ans11.md)
-12. [ What is SSL?](answers/ans12.md)
+12. [What is SSL?](answers/ans12.md)
 13. [Difference between apt update & apt upgrade.](answers/ans13.md)
 14. [What do repositories contain in a Linux system?](answers/ans14.md)
 15. [What does the number represent after the file permissions?](answers/ans15.md)
