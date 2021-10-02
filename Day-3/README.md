@@ -1,20 +1,20 @@
 # Linux Networking, Firewalling, packages and package manager(DAY 3)
-## Questions
-sdsd
-1. How many tables are there in iptables?
-2. What is prot, opt, in, out, source & destination?
-3. Why rules are added to the top?
-4. What type of rules we can add to the iptables?
-5. Can we block a website by its domain name only?
-6. How can we persist rules in iptables?
-7. How can we save rules in iptables?
-8. Difference between ufw & iptables.
-9. What are public & private keys?
-10. How ssh works?
-11. Difference between HTTP & HTTPS.
-12. What is SSL?
-13. Difference between apt update & apt upgrade.
-14. What do repositories contain in a Linux system?
-15. Difference between apt & apt upgrade.
-16. What does the number represent after the file permissions?
-17. Difference between apt and apt-get?
+## **Questions**
+
+1. [How many tables are there in iptables?](answers/ans1.md)
+2. [What is prot, opt, in, out, source & destination?](answers/ans2.md)
+3. [Why rules are added to the top?](answers/ans3.md)
+4. [What type of rules we can add to the iptables?](answers/ans4.md)
+5. [Can we block a website by its domain name only?](answers/ans5.md)
+6. [How can we persist rules in iptables?](answers/ans6.md)
+7. [How can we save rules in iptables?](answers/ans7.md)
+8. [Difference between ufw & iptables.](answers/ans8.md)
+9. [What are public & private keys?](answers/ans9.md)
+10. [How ssh works?](answers/ans10.md)
+11. [Difference between HTTP & HTTPS.](answers/ans11.md)
+12.[ What is SSL?](answers/ans12.md)
+13. [Difference between apt update & apt upgrade.](answers/ans13.md)
+14. [What do repositories contain in a Linux system?](answers/ans14.md)
+15. [Difference between apt & apt upgrade.](answers/ans15.md)
+16. [What does the number represent after the file permissions?](answers/ans16.md)
+17. [Difference between apt and apt-get?](answers/ans17.md)
