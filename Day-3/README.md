@@ -15,6 +15,5 @@
 12. [ What is SSL?](answers/ans12.md)
 13. [Difference between apt update & apt upgrade.](answers/ans13.md)
 14. [What do repositories contain in a Linux system?](answers/ans14.md)
-15. [Difference between apt & apt upgrade.](answers/ans15.md)
-16. [What does the number represent after the file permissions?](answers/ans16.md)
-17. [Difference between apt and apt-get?](answers/ans17.md)
+15. [What does the number represent after the file permissions?](answers/ans15.md)
+16. [Difference between apt and apt-get?](answers/ans16.md)
