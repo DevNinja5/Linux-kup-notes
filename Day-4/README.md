@@ -26,10 +26,18 @@ ff02::2 ip6-allrouters
 
 The SCP command or **secure copy allows secure transferring of files in between the local host and the remote host** or between two remote hosts. 
 
+From local to remote:
+
 **command**
 ```bash
 scp testfile.txt ubuntu@65.0.108.66:/home/ubuntu
 ```
+From remote to local:
+```bash
+scp ubuntu@13.265.02.315:/home/ubuntu/file.txt /home/knoldus/Desktop
+```
+
+
 ## Que 5: How port forwarding works? 
 
 **Port forwarding** is the process of forwarding requests for a specific port to another host, network, or port. As this process modifies the destination of the packet in-flight, it is considered a type of NAT operation. It forward data securely from another client application running on the same computer as a [Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell) (SSH) client
